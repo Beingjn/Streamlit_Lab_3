@@ -1,6 +1,4 @@
 # lab3_charts.py
-# Streamlit Lab 3 — Chart Essentials
-# Run: streamlit run lab3_charts.py
 
 import math
 import numpy as np
