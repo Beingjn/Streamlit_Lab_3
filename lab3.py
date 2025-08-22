@@ -112,7 +112,7 @@ with tab_sampler:
 
 # 3) Altair Reference
 with tab_altair:
-    st.subheader("Altair Reference — copy-paste patterns")
+    st.subheader("Altair Reference")
 
     # Time series (line) + rolling mean + last-point highlight
     st.markdown("**Time series + rolling mean + last-point highlight**")
